@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Henry Paulino"]
   spec.email         = ["henrypl360@gmail.com"]
 
-  spec.summary       = %q{Encrypt and decrypt strings}
+  spec.summary       = %q{Simple string encrypter and decrypter strings}
   spec.homepage      = "https://github.com/corasan/string_transformer"
   spec.license       = "MIT"
 
