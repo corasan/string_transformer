@@ -29,6 +29,10 @@ Encrypt string:
 
     $ a = 'Hello World'.encrypt
 
+This will return something like this:
+
+`=> "4j$k97J<1t4RnxwoW^*tBS7xiLe85OsV$EFrqcb!ZzBD"`
+
 Decrypt string:
 
     $ a.decrypt
