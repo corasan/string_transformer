@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Henry Paulino"]
   spec.email         = ["henrypl360@gmail.com"]
 
-  spec.summary       = %q{Encrypt and decrypt string}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Encrypt and decrypt strings}
+  spec.homepage      = "https://github.com/corasan/string_transformer"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
