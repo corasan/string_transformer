@@ -1,4 +1,4 @@
-# StringTransformer
+# StringTransformer [![Gem Version](https://badge.fury.io/rb/string_transformer.svg)](https://badge.fury.io/rb/string_transformer)
 
 StringTransformer encrypts and decrypts strings encrypted with StringTransformer. This is a simple gem to modify a string NOT for security purposes.
 
